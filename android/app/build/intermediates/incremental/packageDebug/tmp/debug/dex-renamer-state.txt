@@ -1,0 +1,4 @@
+#Fri Mar 20 18:20:35 IST 2020
+base.0=C\:\\Users\\Aditya Tripathi\\Desktop\\final\\react-native-stories-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
